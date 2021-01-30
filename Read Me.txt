@@ -1,0 +1,3 @@
+Keep the deepesh.h file and the main.cpp file inthe same folder to run the code properly 
+
+in the docx File i have also attached the screenshots of the program to give you a clear picture
